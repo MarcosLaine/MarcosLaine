@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarcosLaine
+- 👀 I’m interested in everything about computing, Front and Back-end, mobile, software, etc.
+- 🌱 I’m currently learning C, Java, JavaScript and ohters.
+- 📫 How to reach me:
+  - Linkedin: https://www.linkedin.com/in/marcos-laine-3a1211270/
