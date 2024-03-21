@@ -20,9 +20,16 @@ I'm a brazilian computer science major, currently on the third semester of my de
 </div>
 
 # Skills
-  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs" />
+  </a>
+</p>
 
 
 # Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,linux,nodejs,react)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,linux,nodejs,react" />
+  </a>
+</p>
