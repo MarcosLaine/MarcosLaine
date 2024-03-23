@@ -22,7 +22,7 @@ I'm a brazilian computer science major, currently on the third semester of my de
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,dotnet" />
   </a>
 </p>
 
