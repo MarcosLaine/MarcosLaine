@@ -2,7 +2,7 @@
 
 # Hi, I'm Marcos Paulo!
 
-I'm a brazilian computer science major, currently on the third semester of my degree.
+I'm a brazilian computer science major, currently on the fourth semester of my degree.
 
 <br> 
 
