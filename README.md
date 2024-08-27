@@ -22,7 +22,7 @@ Today, I'm a Intern QA Engineer at ISNetworld by DTI Digital, focused on Back-en
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,dotnet,azure,git,github,postman" />
   </a>
 </p>
 
