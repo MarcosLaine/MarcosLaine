@@ -3,7 +3,7 @@
 # Hi, I'm Marcos Paulo!
 
 I'm a brazilian computer science major, currently on the fourth semester of my degree.<br> 
-Today, I'm a QA Engineer Intern at ISNetworld by DTI Digital, focused on Back-end API tests using swagger, postman, readyAPI and others!
+Today, I'm a QA Engineer Intern at ISNetworld and ADI Global by DTI Digital, focused on Back-end API tests using swagger, postman, readyAPI, Maestro, Newman, Firebase, X-ray and others!
 <br> 
 
 
