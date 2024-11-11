@@ -22,7 +22,7 @@ Today, I'm a QA Engineer Intern at ISNetworld and ADI Global by DTI Digital, foc
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,dotnet,azure,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,dotnet,azure,git,github,postman,jira" />
   </a>
 </p>
 
