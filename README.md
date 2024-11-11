@@ -30,6 +30,6 @@ Today, I'm a QA Engineer Intern at ISNetworld and ADI Global by DTI Digital, foc
 # Currently Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,linux,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,linux,nodejs,react,kali,ubuntu" />
   </a>
 </p>
