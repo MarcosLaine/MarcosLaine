@@ -22,7 +22,7 @@ Today, I'm a QA Engineer Intern at ISNetworld and ADI Global by DTI Digital, foc
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,dotnet,azure,git,github,postman,firebase" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,vscode,java,cs,dotnet,azure,git,github,postman,firebase,dart,flutter,selenium" />
   </a>
 </p>
 
@@ -30,6 +30,6 @@ Today, I'm a QA Engineer Intern at ISNetworld and ADI Global by DTI Digital, foc
 # Currently Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,linux,nodejs,react,kali,ubuntu,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,linux,nodejs,react,kali,ubuntu" />
   </a>
 </p>
