@@ -1,9 +1,11 @@
 <div align="center">
 
-# Hi, I'm Marcos Paulo!
+My name is Marcos Paulo, and I currently work as a QA Lead at dti digital, assigned to the ADI Global Distribution
+project, where I lead a team of Quality Engineers/Analysts. I apply expertise in automated testing, test case design,
+performance testing, manual testing, business complexity analysis, test coverage analysis, and CI/CD pipeline
+implementation for functional validations. I also work across multiple testing areas, including mobile testing, front-end
+testing, API testing, software quality, test automation, and quality engineering.
 
-I'm a brazilian computer science major, currently on the fifth semester of my degree.<br> 
-Today, I'm a QA Engineer Intern at ISNetworld and ADI Global by DTI Digital, focused on Back-end API tests using swagger, postman, readyAPI, Maestro, Newman, Firebase, X-ray and others!
 <br> 
 
 
